@@ -1,0 +1,25 @@
+.centered-image {
+    position: absolute;
+    top: 48%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+}
+
+.image-button {
+    position: absolute;
+    top: 75%;
+    left: 58%;
+    width: 30%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(43, 43, 244); /* Fond bleu */
+    color: white; /* Texte blanc */
+    padding: 10px 20px; /* Ajustez les valeurs de rembourrage selon vos besoins */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+p {
+    color: grey; /* Correction de l'espace inattendu et de la couleur */
+}
